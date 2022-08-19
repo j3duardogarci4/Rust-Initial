@@ -12,8 +12,7 @@ fn main() {
     
      println!("Please input your answer:");
      
-    }
-    
+    }   
     
     
     let mut guess = String::new();
